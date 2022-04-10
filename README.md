@@ -8,7 +8,6 @@ Fuçando no terminal desde criança por curiosidade e hoje com o objetivo de fu�
   
  <a href="https://www.linkedin.com/in/pedro-henrique-aa122b214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://instagram.com/og.peh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"        target="_blank"></a>
- <a href = "pehcontato@outlook.pt"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
 
@@ -25,7 +24,7 @@ Fuçando no terminal desde criança por curiosidade e hoje com o objetivo de fu�
   <img align="center" alt="Pedro-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Pedro-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Pedro-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-   <img align="center" alt="Pedro-Aws" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+   <img align="center" alt="Pedro-Aws" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
   
 </div>
 
