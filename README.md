@@ -1,7 +1,7 @@
 ## Oii 👋 Eu sou o Pedro Henrique 
-
+<div align="center">
 Fuçando no terminal desde criança por curiosidade e hoje com o objetivo de fuçar nele profissionalmente
-
+</div>
 <div align="center">
   <a href="https://github.com/pedrostyxx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrostyxx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
