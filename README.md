@@ -1,6 +1,8 @@
 ## Oii 👋 Eu sou o Pedro Henrique 
 <div align="center">
-Fuçando no terminal desde criança por curiosidade e hoje com o objetivo de fuçar nele profissionalmente
+  
+  Fuçando no terminal desde criança por curiosidade e hoje caminhando para fuçar profissionalmente<br>
+  
 </div>
 <div align="center">
   <a href="https://github.com/pedrostyxx">
