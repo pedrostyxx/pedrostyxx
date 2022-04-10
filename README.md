@@ -34,17 +34,9 @@ Fuçando no terminal desde criança por curiosidade e hoje com o objetivo de fu�
   
 </div>
 
-##
 
-<div>
-  
-  <a href="https://github.com/pedrostyxx">
-  <img width="100%" height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrostyxx&layout=compact&langs_count=9&theme=dracula"/>
-    
-</div>
-  
 </a>
 
-  ![Snake animation](https://github.com/pedrostyxx/pedrostyxx/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pedrostyxx/pedrostyxx/blob/output/github-contribution-grid-snake.svg)
 
 
