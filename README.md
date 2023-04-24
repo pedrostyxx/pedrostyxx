@@ -12,4 +12,4 @@ Sou um desenvolvedor backend apaixonado por programação e tecnologia. Minhas l
 
 👨‍💻 Confira meus repositórios e não hesite em deixar uma estrela ⭐ se gostar do conteúdo!
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white", redirect="https://www.linkedin.com/in/pedro-henrique-aa122b214/"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white", href="https://www.linkedin.com/in/pedro-henrique-aa122b214/"/>
