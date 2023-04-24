@@ -8,10 +8,9 @@ Sou um desenvolvedor backend apaixonado por programação e tecnologia. Minhas l
 
 📫 Sinta-se à vontade para entrar em contato comigo por meio do linkedin para discutir sobre projetos, colaborações ou apenas para bater um papo!
 
-👨‍💻 Confira meus repositórios e não hesite em deixar uma estrela ⭐ se gostar do conteúdo!
+👨‍💻 Confira meus repositórios e não hesite em deixar uma estrela ⭐ se gostar do conteúdo!<br>
 
 
-> 💡 _"A diferença de ganhar ou perder as vezes é não desistir!"_ 
-> 
+> 💡 _"A diferença de ganhar ou perder as vezes é não desistir!"_ <br>
 
 <a href="https://www.linkedin.com/in/pedro-henrique-aa122b214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
