@@ -8,6 +8,6 @@ Sou um desenvolvedor backend apaixonado por programação e tecnologia. Minhas l
 
 🌱 Estou constantemente aprendendo e buscando me aprimorar como desenvolvedor backend. Adoro explorar novas tecnologias e enfrentar desafios!
 
-📫 Sinta-se à vontade para entrar em contato comigo por meio de [LinkedIn]([https://www.linkedin.com/in/seu_perfil/](https://www.linkedin.com/in/pedro-henrique-aa122b214/)) para discutir sobre projetos, colaborações ou apenas para bater um papo!
+📫 Sinta-se à vontade para entrar em contato comigo por meio de [LinkedIn]([https://www.linkedin.com/in/seu_perfil/](https://www.linkedin.com/in/pedro-henrique-aa122b214/) para discutir sobre projetos, colaborações ou apenas para bater um papo!
 
 👨‍💻 Confira meus repositórios e não hesite em deixar uma estrela ⭐ se gostar do conteúdo!
