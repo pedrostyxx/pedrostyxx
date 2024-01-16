@@ -13,4 +13,4 @@ Sou um desenvolvedor backend apaixonado por programação e tecnologia. Minhas l
 
 > 💡 _"A diferença de ganhar ou perder as vezes é não desistir!"_ <br>
 
-<a href="https://www.linkedin.com/in/pedro-henrique-aa122b214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
+<a href="[https://www.linkedin.com/in/pedro-henrique-aa122b214/](https://www.linkedin.com/in/psouza2/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
